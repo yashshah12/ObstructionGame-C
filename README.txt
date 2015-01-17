@@ -20,7 +20,7 @@ Known Limitations
 - One limitation is that it can only take maximum of 49 characters for a persons name
 - another limitation is I havent done error testing meaning if user pressses anything
 except 1, they can play again
-- another is that the program cant read in multiple entrees
+- another is that the scores file cant read in multiple entrees
 
 
 *****************
@@ -28,12 +28,12 @@ Testing Done
 *****************
 - I checked input errors such as checking if the user goes out of bounds.
 - I checked if user presses any other keys during game play
-- 
+
 *****************
 Bonuses
 *****************
 - I created an AI that is not smart. It moves in the first open spot. 
-- I have read in and writing to a file working meaning if two players play the game
+- I have reading from and writing to a file working meaning if two players play the game
 couple times and use different names to play, it wont show up. Game keeps score if 
 user plays again
 - I gave hints so if the user goes out of bounds or selects position 
