@@ -1,8 +1,4 @@
-****************************************************
-Yash Shah	0876928
-Cis 2500	A1-Obstruction Game
-Jan 16/15
-****************************************************
+This is a simple game created in C using ncurses library. 
 ************
 Compilation
 ************
